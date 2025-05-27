@@ -96,7 +96,7 @@ history = model.fit(
 )
 
 # 5. Save and visualize
-model.save('final_model.h5')
+model.save('final_model_2.h5')
 
 plt.figure(figsize=(12,4))
 plt.subplot(1,2,1)
